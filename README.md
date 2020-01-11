@@ -1,4 +1,4 @@
-A sample command-line application.# java-bros
+# Java Bros
 Java Bros is a java compiler written in dart. It's name is homage to the Super Mario Bros game. 
 
 ## Why dart?
